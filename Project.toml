@@ -1,0 +1,11 @@
+name = "BioSimplex"
+uuid = "f37aa7dd-fb3b-4c75-b722-300831487a5c"
+authors = ["Camilo García-Botero<ca.garcia2@uniandes.edu.co>", "and contributors"]
+version = "0.1.0"
+
+[deps]
+BioSequences = "7e6ae17a-c86d-528c-b3b9-7f778a29fe59"
+
+[compat]
+BioSequences = "3"
+julia = "1.10"
