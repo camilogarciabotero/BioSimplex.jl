@@ -5,7 +5,6 @@ using BioSimplex
 
 DocMeta.setdocmeta!(BioSimplex, :DocTestSetup, :(using BioSimplex); recursive = true)
 
-
 makedocs(;
     modules = [BioSimplex],
     authors = "Camilo García",
