@@ -1,7 +1,7 @@
 ```@meta
 CurrentModule = BioSimplex
 DocTestSetup = quote
-    <!-- using GeneFinder -->
+    using BioSimplex
 end
 ```
 
