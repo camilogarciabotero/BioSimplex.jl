@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/src/assets/logo.drawio.svg" height="250"><br/>
+  <img src="docs/src/assets/logo.svg" height="250"><br/>
   <i>Representing DNA sequences as regular tetrahedrals (Simplex)</i><br/><br/>
 </div>
 
