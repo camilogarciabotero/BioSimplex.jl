@@ -2,7 +2,7 @@
 
 ```@raw html
 <p align="center">
-  <img src="assets/logo.drawio.svg" height="150"><br/>
+  <img src="assets/logo.drawio.svg" height="250"><br/>
   <i>Representing DNA sequences as tetahedrals (Simplex)</i>
 </p>
 ```
