@@ -26,3 +26,24 @@ BioSimplex is a &nbsp;
 ```julia
 pkg> add BioSimplex
 ```
+## Usage
+
+```julia
+using BioSequences, BioSimplex
+
+# Create a BioSequence
+seq = dna"ATCG"
+
+# Convert the BioSequence to a Simplex representation 
+biosimplex(seq)
+
+3×4 Matrix{Float64}:
+ 0.0   0.942809  -0.471405  -0.471405
+ 0.0   0.0        0.816497  -0.816497
+ 1.0  -0.333333  -0.333333  -0.333333
+```
+
+
+
+
+
