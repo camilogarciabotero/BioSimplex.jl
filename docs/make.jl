@@ -14,6 +14,7 @@ makedocs(;
         mathengine=MathJax3(),
         prettyurls = get(ENV, "CI", "false") == "true",
         canonical="https://camilogarciabotero.github.io/BioSimplex.jl",
+        repolink = "https://github.com/camilogarciabotero/BioSimplex.jl",
     ),
     pages = [
         "Home" => "index.md",
