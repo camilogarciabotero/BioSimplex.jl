@@ -1,13 +1,13 @@
 <div align="center">
   <img src="docs/src/assets/logo.drawio.svg" height="250"><br/>
-  <i>Representing DNA sequences as tetahedrals (Simplex)</i><br/><br/>
+  <i>Representing DNA sequences as regular tetrahedrals (Simplex)</i><br/><br/>
 </div>
 
 # BioSimplex
 
-> Representing DNA sequences as tetahedrals (Simplex)
+> Representing DNA sequences as regular tetrahedrals (Simplex)
 
-This packages has a single public function `biosimplex` that takes a `BioSequence` and returns a *Simplex* representation of a *BioSequence*. The *Simplex* representation is a 3D representation of the *BioSequence* where each base is represented by a tetrahedron. The *Simplex* representation is useful for to generate a numerical representation of the *BioSequence* that can be used in machine learning models.
+This packages has a single public function `biosimplex` that takes a `BioSequence` and returns a *Simplex* representation of a *BioSequence*. The *Simplex* representation is a 3D representation of the *BioSequence* where each base can be represented as unit vectors pointing into a regular tetrahedron (Silverman et al., 1986; Coward, 1997).
 
 ## Installation
 
@@ -26,6 +26,7 @@ BioSimplex is a &nbsp;
 ```julia
 pkg> add BioSimplex
 ```
+
 ## Usage
 
 ```julia
@@ -42,8 +43,12 @@ biosimplex(seq)
  0.0   0.0        0.816497  -0.816497
  1.0  -0.333333  -0.333333  -0.333333
 ```
+## Applications
 
+The *Simplex* representation is useful for to generate a numerical representation of the sequences so that it can be used in machine learning models.
 
+## References
 
+Coward, E. (1997). Equivalence of two Fourier methods for biological sequences. Journal of Mathematical Biology, 36(1), 64–70. https://doi.org/10.1007/s002850050090
 
-
+Silverman, B. D., & Linsker, R. (1986). A measure of DNA periodicity. Journal of Theoretical Biology, 118(3), 295–300. https://doi.org/10.1016/S0022-5193(86)80060-1
