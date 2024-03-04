@@ -3,6 +3,20 @@
   <i>Representing DNA sequences as regular tetrahedrals (Simplex)</i><br/><br/>
 </div>
 
+<div align="center">
+
+[![Documentation](https://img.shields.io/badge/documentation-online-blue.svg?logo=Julia&logoColor=white)](https://camilogarciabotero.github.io/BioSimplex.jl/dev/)
+[![Latest Release](https://img.shields.io/github/release/camilogarciabotero/BioSimplex.jl.svg)](https://github.com/camilogarciabotero/BioSimplex.jl/releases/latest)
+<br/>
+[![CI Workflow](https://github.com/camilogarciabotero/BioSimplex.jl/actions/workflows/CI.yml/badge.svg)](https://github.com/camilogarciabotero/BioSimplex.jl/actions/workflows/CI.yml)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/camilogarciabotero/BioSimplex.jl/blob/main/LICENSE)
+[![Work in Progress](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+[![Downloads](https://shields.io/endpoint?url=https://pkgs.genieframework.com/api/v1/badge/BioSimplex&label=downloads)](https://pkgs.genieframework.com?packages=BioSimplex)
+[![Aqua QA](https://raw.githubusercontent.com/JuliaTesting/Aqua.jl/master/badge.svg)](https://github.com/JuliaTesting/Aqua.jl)
+
+</div>
+<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10452378.svg)](https://doi.org/10.5281/zenodo.10452378) -->
+
 # BioSimplex
 
 > Representing DNA sequences as regular tetrahedrals (Simplex)
