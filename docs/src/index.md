@@ -8,16 +8,19 @@
 ```
 
 ```@raw html
-<div align="center">
+<div style="text-align: center;">
 
-[![Documentation](https://img.shields.io/badge/documentation-online-blue.svg?logo=Julia&logoColor=white)](https://camilogarciabotero.github.io/BioSimplex.jl/dev/)
-[![Latest Release](https://img.shields.io/github/release/camilogarciabotero/BioSimplex.jl.svg)](https://github.com/camilogarciabotero/BioSimplex.jl/releases/latest)
+<a href="https://camilogarciabotero.github.io/BioSimplex.jl/dev/"><img src="https://img.shields.io/badge/documentation-online-blue.svg?logo=Julia&logoColor=white" alt="Documentation"></a>
+<a href="https://github.com/camilogarciabotero/BioSimplex.jl/releases/latest"><img src="https://img.shields.io/github/release/camilogarciabotero/BioSimplex.jl.svg" alt="Latest Release"></a>
+
 <br/>
-[![CI Workflow](https://github.com/camilogarciabotero/BioSimplex.jl/actions/workflows/CI.yml/badge.svg)](https://github.com/camilogarciabotero/BioSimplex.jl/actions/workflows/CI.yml)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/camilogarciabotero/BioSimplex.jl/blob/main/LICENSE)
-[![Work in Progress](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
-[![Downloads](https://shields.io/endpoint?url=https://pkgs.genieframework.com/api/v1/badge/BioSimplex&label=downloads)](https://pkgs.genieframework.com?packages=BioSimplex)
-[![Aqua QA](https://raw.githubusercontent.com/JuliaTesting/Aqua.jl/master/badge.svg)](https://github.com/JuliaTesting/Aqua.jl)
+<a href="https://github.com/camilogarciabotero/BioSimplex.jl/actions/workflows/CI.yml"><img src="https://github.com/camilogarciabotero/BioSimplex.jl/actions/workflows/CI.yml/badge.svg" alt="CI Workflow"></a>
+<a href="https://github.com/camilogarciabotero/BioSimplex.jl/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
+<a href="https://www.repostatus.org/#wip"><img src="https://www.repostatus.org/badges/latest/wip.svg" alt="Work in Progress"></a>
+<a href="https://pkgs.genieframework.com?packages=BioSimplex"><img src="https://shields.io/endpoint?url=https://pkgs.genieframework.com/api/v1/badge/BioSimplex&label=downloads" alt="Downloads"></a>
+<a href="https://github.com/JuliaTesting/Aqua.jl">
+  <img src="https://raw.githubusercontent.com/JuliaTesting/Aqua.jl/master/badge.svg" alt="Aqua QA">
+</a>
 
 </div>
 ```
