@@ -12,6 +12,7 @@
 
 <a href="https://camilogarciabotero.github.io/BioSimplex.jl/dev/"><img src="https://img.shields.io/badge/documentation-online-blue.svg?logo=Julia&logoColor=white" alt="Documentation"></a>
 <a href="https://github.com/camilogarciabotero/BioSimplex.jl/releases/latest"><img src="https://img.shields.io/github/release/camilogarciabotero/BioSimplex.jl.svg" alt="Latest Release"></a>
+<a href="https://doi.org/10.5281/zenodo.10775955"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.10775955.svg" alt="DOI"></a>
 
 <br/>
 <a href="https://github.com/camilogarciabotero/BioSimplex.jl/actions/workflows/CI.yml"><img src="https://github.com/camilogarciabotero/BioSimplex.jl/actions/workflows/CI.yml/badge.svg" alt="CI Workflow"></a>

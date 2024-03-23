@@ -7,6 +7,7 @@
 
 [![Documentation](https://img.shields.io/badge/documentation-online-blue.svg?logo=Julia&logoColor=white)](https://camilogarciabotero.github.io/BioSimplex.jl/dev/)
 [![Latest Release](https://img.shields.io/github/release/camilogarciabotero/BioSimplex.jl.svg)](https://github.com/camilogarciabotero/BioSimplex.jl/releases/latest)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10775955.svg)](https://doi.org/10.5281/zenodo.10775955)
 <br/>
 [![CI Workflow](https://github.com/camilogarciabotero/BioSimplex.jl/actions/workflows/CI.yml/badge.svg)](https://github.com/camilogarciabotero/BioSimplex.jl/actions/workflows/CI.yml)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/camilogarciabotero/BioSimplex.jl/blob/main/LICENSE)
